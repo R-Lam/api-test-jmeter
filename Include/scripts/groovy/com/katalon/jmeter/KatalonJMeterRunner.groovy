@@ -17,7 +17,7 @@ import com.kms.katalon.core.util.KeywordUtil;
 
 public class KatalonJMeterRunner {
 	private static NUM_LOOPS = 1;
-	private static NUM_THREADS = 2;
+	private static NUM_THREADS = 20;
 	private static RAMP_UP = 1;
 	private static DURATION = 10000;
 
